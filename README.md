@@ -30,5 +30,5 @@ To run the code:
  Special thanks to Adrian Rosebrock for teaching me OpenCV. 
  Check out his blog: https://www.pyimagesearch.com/ to learn more about Computer Vision
  
- Linkedin Video: 
+ Linkedin Video: https://www.linkedin.com/feed/update/urn:li:ugcPost:6485447434771238912/
  
