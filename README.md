@@ -8,7 +8,8 @@ Setup before running the code:
 3. In each sub-folder add the image of the person. There is no need to crop images. However, make sure that each image has only the pic of one person
 4. Create a video folder
 5. Add the video on which you want to run the algorithm on - preferably an mp4 video
-6. Make sure you have the relevant libraries of Opencv, imutils, pickle etc..
+6. Create an output folder. This will save the pickle files and the final output video.
+7. Make sure you have the relevant libraries of Opencv, imutils, pickle etc..
 
 
 
