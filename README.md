@@ -28,7 +28,8 @@ To run the code:
   
   
  Special thanks to Adrian Rosebrock for teaching me OpenCV. 
- Check out his blog: https://www.pyimagesearch.com/ to learn more about Computer Vision
+ Check out his blog: https://www.pyimagesearch.com/ to learn more about Computer Vision.
+ 
  Code from pyimage search: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition
  
  Linkedin Video: https://www.linkedin.com/feed/update/urn:li:ugcPost:6485447434771238912/
