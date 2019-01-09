@@ -18,7 +18,7 @@ You may also see the accuracy reports in the following link - http://cmusatyalab
 To run the code:
 1. Extract the 128-D embeddings of the images in the dataset. This uses the Openface implementation of Facenet model. The embeddings are saved in the output folder "embeddings.pickle" file
 
-==> python extract_embeddings.py --dataset dataset --embeddings output/embeddings.pickle --detector face_detection_model --embedding-model openface_nn4.small2.v1.t7
+==> python extract_embeddings.py --dataset dataset --embeddings output/embeddings.pickle --detector face_detection_model --embedding-model nn4.small2.v1.t7
 
 2. Train the embeddings on a Support Vector Machine (SVM) classifier. This is used to detect different faces in the video. The SVM encodings are saved in "recognizer.pickle". The name encodings of the different faces you want to detect are stored in "le.pickle" file
 
