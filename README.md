@@ -9,7 +9,9 @@ Setup before running the code:
 4. Create a video folder
 5. Add the video on which you want to run the algorithm on - preferably an mp4 video
 6. Create an output folder. This will save the pickle files and the final output video.
-7. Make sure you have the relevant libraries of Opencv, imutils, pickle etc..
+7. Download the openface nn4.small2.v1.t7 model from the open face portal link (https://storage.cmusatyalab.org/openface-models/nn4.small2.v1.t7)
+You may also see the accuracy reports in the following link - http://cmusatyalab.github.io/openface/models-and-accuracies/
+8. Make sure you have the relevant libraries of Opencv, imutils, pickle etc..
 
 
 
