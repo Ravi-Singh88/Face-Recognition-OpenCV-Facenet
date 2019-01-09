@@ -26,7 +26,7 @@ To run the code:
 
 3. Run the model on the video. The output video file can be mp4 or avi. 
 
-===> python recognize_video_file.py --detector face_detection_model --embedding-model openface_nn4.small2.v1.t7 --recognizer output/recognizer.pickle --le output/le.pickle --input video/<input video file> --output output/<outut video file>
+===> python recognize_video_file.py --detector face_detection_model --embedding-model nn4.small2.v1.t7 --recognizer output/recognizer.pickle --le output/le.pickle --input video/<input video file> --output output/<outut video file>
   
   
  Special thanks to Adrian Rosebrock for teaching me OpenCV. 
